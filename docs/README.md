@@ -12,7 +12,7 @@
 
 ## Documentation
 
-[Docs](../Docs.md)
+[Docs](./Docs.md)
 
 ## Testing
 
