@@ -12,7 +12,7 @@
 
 Находим периметр квадрата со стороной 10:
 
-```sh
+```python
 import square.py
 
 a = 10  # сторона квадрата
@@ -22,7 +22,7 @@ print(perimeter(a))
 
 Находим площадь квадрата со стороной 13.5:
 
-```sh
+```python
 import square.py
 
 a = 13.5  # сторона квадрата
@@ -34,7 +34,7 @@ print(area(a))
 
 Находим периметр прямоугольника со сторонами 10 и 5:
 
-```sh
+```python
 import rectangle.py
 
 a = 10  # сторона 1
@@ -45,7 +45,7 @@ print(perimeter(a, b))
 
 Находим площадь прямоугольника со сторонами 2.5 и 3:
 
-```sh
+```python
 import rectangle.py
 
 a = 2.5  # сторона 1
@@ -58,7 +58,7 @@ print(area(a, b))
 
 Находим периметр треугольника со сторонами 10, 5 и 7:
 
-```sh
+```python
 import rectangle.py
 
 a = 10  # сторона 1
@@ -70,7 +70,7 @@ print(perimeter(a, b, c))
 
 Находим площадь треугольника с основанием 4 и высотой 3:
 
-```sh
+```python
 import rectangle.py
 
 a = 2.5  # основание треугольника 
@@ -83,7 +83,7 @@ print(area(a, b))
 
 Находим длину окружности (тоже по сути периметр) радиусом 5:
 
-```sh
+```python
 import rectangle.py
 
 r = 5  # радиус
@@ -93,7 +93,7 @@ print(perimeter(r))
 
 Находим площадь окружности радиусом 5.6:
 
-```sh
+```python
 import rectangle.py
 
 r = 5.6  # радиус
